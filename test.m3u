@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:30,cartoon_classic
+#EXTVLCOPT:network-caching=1000
+https://m9-vss23.plbl.m9.lfstrm.tv/cartoon_classic/normal/index.m3u8?account=4b09bad0228779ff&client=33eb1466163124a0&env=s&expires=1778443200&ip=5-53-19-193&liveorigin=m9-live1&mpltlh=auto&origin=m9-dvr1&pbs_id=a37038b4-f853-489e-aa5c-6b827ad99486&provider_id=60d9b8f2418cc7007c7abbeb&region=hmao%2Esurgut&token=9sV3Ub-GAUUS5EHbQS8Pdw&wlid=mtr
